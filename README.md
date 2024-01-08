@@ -8,13 +8,13 @@
 
 # Install
 ```bash
-pip install pymask
+pip install pmask
 ```
 
 # Usage
 - Run the following command for annotation window to appear.
 ```bash
-pymask --input "path/to/image/tobe/annotated" --ouput "path/to/the/generated/mask"
+pmask --input "path/to/image/tobe/annotated" --ouput "path/to/the/generated/mask"
 ```
 - Mouse scroll to zoom in/out, left click drag for panning image, **right click drag for black annotation on image and press "s" to save.**
 - Video tutorial:
