@@ -1,6 +1,10 @@
 # PyMask
 > Dead simple command line tool for image annotation to generate binary mask.
 
+| Image     | Mask |
+| ----------- | ----------- |
+|<img src="./data/lincoln.png" alt="org_img" width="320" height="390">   | <img src="./data/mask.png" alt="mask" width="320" height="390">    |
+
 # Usage
 - Run the following command for annotation window to appear.
 ```bash
