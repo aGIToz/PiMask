@@ -38,7 +38,7 @@ def create_mask(input_path, output_path):
         # Press 's' to save the mask
         if k == ord('s'):
             img = (np.where(img == 0, 0, 255)).astype(np.uint8)
-            cv2.imwrite('mask.png', img)
+            cv2.imwrite(f'{output_path}', img)
             print(f"Mask saved as '{output_path}'")
             break
 
