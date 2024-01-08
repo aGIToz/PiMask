@@ -1,5 +1,5 @@
 import argparse
-from PyMask.annotator import create_mask
+from pimask.annotator import create_mask
 
 def main():
     parser = argparse.ArgumentParser(description='Create a mask on an image.')
