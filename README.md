@@ -9,10 +9,9 @@ pymask --input "path/to/image/tobe/annotated" --ouput "path/to/the/generated/mas
 - Mouse scroll to zoom in/out, left click drag for panning image, right click drag for annotating the image.
 - Video tutorial:
 
+https://github.com/aGIToz/PyMask/assets/38216671/0f1166d0-7213-41cb-aaf1-a1ded62e0cf0
 
 
-
-https://github.com/aGIToz/PyMask/assets/38216671/7122a56c-e4c7-4607-96e4-acd175bb1e56
 
 
 # Install
